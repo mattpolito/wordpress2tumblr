@@ -1,0 +1,4 @@
+base_uri: 'http://mattpolito.tumblr.com'  # Your base tumblr url
+username: 'mattpolito'                    # Your Tumblr username
+email: 'matt.polito@example.com'          # Your Tumblr email address
+password: 'password'                      # Your Tumblr password

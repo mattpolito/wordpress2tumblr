@@ -1,0 +1,8 @@
+h1. Wordpress 2 Tumblr
+
+This ruby script allows you to move all of your Wordpress posts over to Tumblr.
+
+* Modify the config.yml file with your Tumblr information
+* Run Tumblr.posts to make sure you are connected ( this will give you an output of all your Tumblr posts so far )
+* Run Tumblr.import_from_wordpress(PATH_TO_YOUR_WORDPRESS_EXPORT)
+* Enjoy!
